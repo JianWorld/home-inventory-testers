@@ -1,5 +1,23 @@
 [
   {
+    "id": "taiwan_mom",
+    "platform": "android",
+    "profile": "台灣居家主婦，45 歲，使用 Android 手機、繁體中文、系統字體放大 130%，重視大字閱讀舒適度與按鈕好點選。",
+    "goal": "建立一個「玄關鞋櫃」空間、拍一張照片並標記兩樣物品的存放位置與保固日期，重點檢查字體是否太小、按鈕會不會被遮擋。",
+    "locale": "zh-TW",
+    "geo": [25.033, 121.5654],
+    "device": {"name": "Pixel 7, Android 14, 130% font", "profile": "pixel_7", "android_api": 34, "font_scale": 1.3, "theme": "light"}
+  },
+  {
+    "id": "taiwan_organizer",
+    "platform": "android",
+    "profile": "台灣收納整理師，35 歲，使用 Android 平板與深色模式，講求建檔效率、日期調整直覺性與備份安全。",
+    "goal": "新增一台購買日期在兩年前的除濕機並設定濾網耗材提醒，接著測試匯出備份，重點檢查日期修改與流程是否直覺。",
+    "locale": "zh-TW",
+    "geo": [25.033, 121.5654],
+    "device": {"name": "Pixel Tablet, Android 14", "profile": "pixel_tablet", "android_api": 34, "font_scale": 1.0, "theme": "dark"}
+  },
+  {
     "id": "anna",
     "platform": "android",
     "profile": "Retired teacher, 68, low patience with jargon, uses large text.",
